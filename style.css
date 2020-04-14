@@ -1,0 +1,11 @@
+td {
+  text-align: center;
+}
+
+.active {
+  background-color: red;
+}
+
+div {
+  font-size: 23px;
+}
